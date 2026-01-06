@@ -39,7 +39,3 @@ In the server folder
 * React
 * WebRTC
 * Tailwind
-
-## License
-
-This project is licensed under the MIT License.
