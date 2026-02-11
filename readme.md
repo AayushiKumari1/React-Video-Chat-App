@@ -9,22 +9,6 @@ A simple video call application built with React, WebRTC, and Node.js.
 * Node.js server for signaling server
 * Tailwind for styling
 
-## Getting Started
-
-1. Clone the repository
-2. Install the dependencies:
-
-`npm install`
-
-3. Run the client and server:
-
-In the client folder
-`npm run dev`
-
-In the server folder
-`npm run start`
-
-
 ## Usage
 
 1. Open the client app in your browser.
